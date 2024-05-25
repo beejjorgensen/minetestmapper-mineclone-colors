@@ -285,6 +285,7 @@ mcl_sponges:sponge_wet 156 134 92
 mcl_stairs:slab_acaciawood 106 113 108
 mcl_stairs:slab_birchwood_top 127 118 114
 mcl_stairs:slab_cobble 106 113 108
+mcl_stairs:slab_cobble_top 127 118 114
 mcl_stairs:slab_darktree_bark_top 127 118 114
 mcl_stairs:slab_darkwood 106 113 108
 mcl_stairs:slab_darkwood_double 106 113 108
