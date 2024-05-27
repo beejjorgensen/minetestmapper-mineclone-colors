@@ -66,6 +66,7 @@ mcl_core:granite_smooth 150 121 110
 mcl_core:grass_path 113 89 62
 mcl_core:gravel 104 110 107
 mcl_core:jungleleaves 21 69 28
+mcl_core:jungleleaves_orphan 28 57 28
 mcl_core:jungletree 175 117 86
 mcl_core:junglewood 175 117 86
 mcl_core:ladder 104 110 107
