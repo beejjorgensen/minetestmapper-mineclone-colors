@@ -319,6 +319,7 @@ mcl_stairs:stair_nether_brick_outer 49 23 24
 mcl_stairs:stair_prismarine_brick 49 23 24
 mcl_stairs:stair_prismarine_brick_outer 49 23 24
 mcl_stairs:stair_sprucewood 102 88 74
+mcl_stairs:stair_sprucewood_outer 97 71 57
 mcl_stairs:stair_stonebrick 97 90 85
 mcl_stairs:stair_stonebrickcracked 94 87 83
 mcl_stairs:stair_stonebrick_outer 97 90 85
