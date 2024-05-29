@@ -144,6 +144,7 @@ mcl_doors:birch_door_b_1 172 147 124
 mcl_doors:birch_door_t_1 172 147 124
 mcl_doors:birch_trapdoor 173 151 132
 mcl_doors:iron_trapdoor_open 148 96 66
+mcl_doors:jungle_trapdoor_open 103 70 52
 mcl_doors:spruce_door_b_2 67 56 47
 mcl_doors:spruce_door_t_2 67 56 47
 mcl_doors:spruce_trapdoor 71 57 46
@@ -153,6 +154,7 @@ mcl_doors:trapdoor_open 148 96 66
 mcl_doors:wooden_door_b_1 148 98 67
 mcl_doors:wooden_door_t_1 148 98 67
 mcl_farming:carrot 147 106 63
+mcl_farming:melon 100 72 61
 mcl_farming:potato 107 74 39
 mcl_farming:pumpkin 181 94 40
 mcl_farming:soil_wet 69 55 46
@@ -172,8 +174,12 @@ mcl_fences:spruce_fence 85 69 56
 mcl_fire:eternal_fire 207 100 35
 mcl_fire:fire 95 58 41
 mcl_fletching_table:fletching_table 148 89 46
+mcl_flowerpots:flower_pot_allium 101 154 47
 mcl_flowerpots:flower_pot_azure_bluet 101 154 47
 mcl_flowerpots:flower_pot_blue_orchid 101 154 47
+mcl_flowerpots:flower_pot_oxeye_daisy 101 154 47
+mcl_flowerpots:flower_pot_tulip_orange 101 154 47
+mcl_flowerpots:flower_pot_tulip_white 101 154 47
 mcl_flowers:allium 120 116 144
 mcl_flowers:azure_bluet 97 114 98
 mcl_flowers:blue_orchid 46 91 86
@@ -206,8 +212,15 @@ mcl_lanterns:chain 40 40 40
 mcl_lanterns:lantern_ceiling 72 59 48
 mcl_lanterns:lantern_floor 72 59 48
 mcl_loom:loom 111 84 69
+mcl_mangrove:hanging_propagule_1 77 98 48
+mcl_mangrove:mangroveleaves 103 60 57
+mcl_mangrove:mangrove_mud_roots 94 73 48
+mcl_mangrove:mangrove_roots 94 73 48
+mcl_mangrove:mangrove_tree 103 60 57
+mcl_mangrove:water_logged_roots 94 73 48
 mcl_minecarts:rail 78 64 56
 mcl_mobspawners:spawner 73 107 20
+mcl_mud:mud 66 62 58
 mcl_mushrooms:brown_mushroom_block_cap_100000 131 86 68
 mcl_mushrooms:brown_mushroom_block_cap_100001 131 86 68
 mcl_mushrooms:brown_mushroom_block_cap_100010 131 86 68
