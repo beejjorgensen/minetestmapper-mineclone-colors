@@ -84,6 +84,7 @@ mcl_core:sand 224 137 111
 mcl_core:sandstone 202 155 121
 mcl_core:sandstonecarved 202 122 104
 mcl_core:sandstonesmooth 104 110 107
+mcl_core:sandstonesmooth2 104 110 107
 mcl_core:spruceleaves 38 74 47
 mcl_core:sprucetree 38 74 47
 mcl_core:sprucewood 38 74 47
