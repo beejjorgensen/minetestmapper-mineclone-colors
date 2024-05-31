@@ -7,6 +7,9 @@ mcl_amethyst:medium_amethyst_bud 184 140 209
 mcl_amethyst:small_amethyst_bud 176 131 203
 mcl_anvils:anvil 40 40 40
 mcl_anvils:anvil_damage_2 48 48 48
+mcl_bamboo:bamboo_1 73 107 20
+mcl_bamboo:bamboo_2 73 107 20
+mcl_bamboo:bamboo_3 73 107 20
 mcl_bamboo:bamboo 73 107 20
 mcl_bamboo:bamboo_endcap 54 126 0
 mcl_barrels:barrel_closed 78 61 47
