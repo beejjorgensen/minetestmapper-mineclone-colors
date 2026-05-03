@@ -162,6 +162,7 @@ mcl_farming:carrot 147 106 63
 mcl_farming:melon 100 72 61
 mcl_farming:potato 107 74 39
 mcl_farming:pumpkin 181 94 40
+mcl_farming:soil 102 88 56
 mcl_farming:soil_wet 69 55 46
 mcl_farming:sweet_berry_bush_3 85 76 41
 mcl_farming:wheat 102 87 55
