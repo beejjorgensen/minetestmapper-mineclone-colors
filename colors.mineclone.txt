@@ -43,6 +43,7 @@ mcl_colorblocks:hardened_clay_yellow 177 128 51
 mcl_composters:composter 141 111 87
 mcl_copper:stone_with_copper 147 77 56
 mcl_core:acacialeaves 21 69 28
+mcl_core:acaciasapling 158 100 64
 mcl_core:acaciatree 151 90 57
 mcl_core:andesite 104 110 107
 mcl_core:bedrock 91 77 66
@@ -165,8 +166,11 @@ mcl_farming:soil_wet 69 55 46
 mcl_farming:sweet_berry_bush_3 85 76 41
 mcl_farming:wheat 102 87 55
 mcl_farming:wheat_1 49 97 45
+mcl_farming:wheat_2 50 98 46
 mcl_farming:wheat_3 64 113 52
+mcl_farming:wheat_4 87 131 66
 mcl_farming:wheat_5 101 142 66
+mcl_farming:wheat_6 148 147 70
 mcl_farming:wheat_7 165 116 75
 mcl_fences:birch_fence 151 119 93
 mcl_fences:dark_oak_fence 108 83 64
@@ -187,6 +191,7 @@ mcl_flowerpots:flower_pot_tulip_white 101 154 47
 mcl_flowers:allium 120 116 144
 mcl_flowers:azure_bluet 97 114 98
 mcl_flowers:blue_orchid 46 91 86
+mcl_flowers:clover 151 140 123
 mcl_flowers:cornflower 48 88 114
 mcl_flowers:dandelion 111 111 55
 mcl_flowers:double_fern 140 130 113
@@ -194,6 +199,7 @@ mcl_flowers:double_fern_top 148 138 119
 mcl_flowers:double_grass 151 140 121
 mcl_flowers:double_grass_top 156 145 125
 mcl_flowers:fern 143 132 115
+mcl_flowers:fourleaf_clover 47 92 43
 mcl_flowers:lilac 120 116 144
 mcl_flowers:lilac_top 139 130 126
 mcl_flowers:lily_of_the_valley 117 135 116
@@ -380,5 +386,6 @@ mesecons_walllever:wall_lever_off 95 80 69
 mesecons_walllever:wall_lever_on 108 97 91
 mesecons:wire_00010000_off 112 100 96
 mesecons:wire_01000000_off 112 100 96
+vl_hollow_logs:acaciatree_hollow 154 93 59
 xpanes:bar_flat 175 172 165
 xpanes:pane_natural_flat 160 152 152
