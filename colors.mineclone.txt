@@ -173,6 +173,8 @@ mcl_farming:wheat_4 87 131 66
 mcl_farming:wheat_5 101 142 66
 mcl_farming:wheat_6 148 147 70
 mcl_farming:wheat_7 165 116 75
+mcl_fences:acacia_fence 155 103 71
+mcl_fences:acacia_fence_gate 155 103 71
 mcl_fences:birch_fence 151 119 93
 mcl_fences:dark_oak_fence 108 83 64
 mcl_fences:dark_oak_fence_gate 111 85 66
