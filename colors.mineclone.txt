@@ -390,5 +390,6 @@ mesecons_walllever:wall_lever_on 108 97 91
 mesecons:wire_00010000_off 112 100 96
 mesecons:wire_01000000_off 112 100 96
 vl_hollow_logs:acaciatree_hollow 154 93 59
+vl_hollow_logs:jungletree_hollow 176 117 87
 xpanes:bar_flat 175 172 165
 xpanes:pane_natural_flat 160 152 152
