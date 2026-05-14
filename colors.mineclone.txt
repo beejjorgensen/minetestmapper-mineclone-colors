@@ -51,6 +51,7 @@ mcl_core:birchleaves 28 57 28
 mcl_core:birchleaves_orphan 28 57 28
 mcl_core:birchtree 28 57 28
 mcl_core:brick_block 226 207 174
+mcl_core:cactus 79 101 50
 mcl_core:clay 104 110 107
 mcl_core:coarse_dirt 117 92 76
 mcl_core:cobble 104 110 107
@@ -358,6 +359,7 @@ mcl_stairs:stair_sprucewood 102 88 74
 mcl_stairs:stair_sprucewood_outer 97 71 57
 mcl_stairs:stair_stonebrick 97 90 85
 mcl_stairs:stair_stonebrickcracked 94 87 83
+mcl_stairs:stair_stonebrickmossy 82 102 77
 mcl_stairs:stair_stonebrick_outer 97 90 85
 mcl_stairs:stair_wood 113 87 67
 mcl_stairs:stair_wood_inner 102 88 74
