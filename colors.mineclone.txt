@@ -29,6 +29,8 @@ mcl_blackstone:soul_torch 91 71 52
 mcl_blast_furnace:blast_furnace 93 88 85
 mcl_books:bookshelf 109 84 65
 mcl_cauldrons:cauldron 47 47 47
+mcl_cherry_blossom:cherryleaves 226 141 128
+mcl_cherry_blossom:cherrytree 226 141 128
 mcl_chests:chest_left 70 62 58
 mcl_chests:chest_right 70 62 58
 mcl_chests:chest_small 70 62 58
