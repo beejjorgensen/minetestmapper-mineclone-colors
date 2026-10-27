@@ -245,6 +245,7 @@ mcl_fences:dark_oak_fence 108 84 65
 mcl_fences:dark_oak_fence_gate 111 86 66
 mcl_fences:fence 85 68 55
 mcl_fences:fence_gate 86 69 56
+mcl_fences:fence_gate_open 86 69 56
 mcl_fences:nether_brick_fence 49 24 25
 mcl_fences:oak_fence 108 84 65
 mcl_fences:oak_fence_gate 111 86 66
